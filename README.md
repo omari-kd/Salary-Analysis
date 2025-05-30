@@ -1,6 +1,6 @@
 # Salary-Analysis
 
-The tech industry is known for its competitive salaries and rapid career progression. This report
+The tech industry is known for its competitive salaries and rapid career progression. This project
 analyzes the relationship between salaries and experience levels in the tech sector, aiming to
 provide insights for both job seekers and employers. The main objectives are to:
 
